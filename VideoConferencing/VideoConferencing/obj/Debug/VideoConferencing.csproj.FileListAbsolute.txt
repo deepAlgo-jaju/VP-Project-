@@ -1,0 +1,12 @@
+C:\Users\JaJu\Downloads\Compressed\Libraries\VP Project\Week1_Go\VideoConferencing\VideoConferencing\bin\Debug\VideoConferencing.exe.config
+C:\Users\JaJu\Downloads\Compressed\Libraries\VP Project\Week1_Go\VideoConferencing\VideoConferencing\bin\Debug\VideoConferencing.exe
+C:\Users\JaJu\Downloads\Compressed\Libraries\VP Project\Week1_Go\VideoConferencing\VideoConferencing\bin\Debug\VideoConferencing.pdb
+C:\Users\JaJu\Downloads\Compressed\Libraries\VP Project\Week1_Go\VideoConferencing\VideoConferencing\obj\Debug\VideoConferencing.csprojResolveAssemblyReference.cache
+C:\Users\JaJu\Downloads\Compressed\Libraries\VP Project\Week1_Go\VideoConferencing\VideoConferencing\obj\Debug\VideoConferencing.Properties.Resources.resources
+C:\Users\JaJu\Downloads\Compressed\Libraries\VP Project\Week1_Go\VideoConferencing\VideoConferencing\obj\Debug\VideoConferencing.csproj.GenerateResource.Cache
+C:\Users\JaJu\Downloads\Compressed\Libraries\VP Project\Week1_Go\VideoConferencing\VideoConferencing\obj\Debug\VideoConferencing.exe
+C:\Users\JaJu\Downloads\Compressed\Libraries\VP Project\Week1_Go\VideoConferencing\VideoConferencing\obj\Debug\VideoConferencing.pdb
+C:\Users\JaJu\Downloads\Compressed\Libraries\VP Project\Week1_Go\VideoConferencing\VideoConferencing\bin\Debug\MetroFramework.Design.dll
+C:\Users\JaJu\Downloads\Compressed\Libraries\VP Project\Week1_Go\VideoConferencing\VideoConferencing\bin\Debug\MetroFramework.dll
+C:\Users\JaJu\Downloads\Compressed\Libraries\VP Project\Week1_Go\VideoConferencing\VideoConferencing\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\JaJu\Downloads\Compressed\Libraries\VP Project\Week1_Go\VideoConferencing\VideoConferencing\obj\Debug\VideoConferencing.Login_Form.resources
